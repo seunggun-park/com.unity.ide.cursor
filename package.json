@@ -1,0 +1,10 @@
+{
+  "name": "com.unity.ide.cursor",
+  "displayName": "Cursor Editor",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Code editor integration for Cursor IDE. Forked from com.unity.ide.vscode.",
+  "keywords": ["cursor", "ide", "code editor"],
+  "category": "Editor",
+  "type": "tool"
+}
